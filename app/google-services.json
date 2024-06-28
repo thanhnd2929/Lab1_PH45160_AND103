@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810121267827",
+    "project_id": "prj1-de097",
+    "storage_bucket": "prj1-de097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810121267827:android:7ab13eeccd18dae685f806",
+        "android_client_info": {
+          "package_name": "fpoly.ph45160.fbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCid9aNCv6YS5ku_6srHiR-khHIdiwKVH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
